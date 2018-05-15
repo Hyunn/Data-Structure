@@ -1,0 +1,16 @@
+h1    8.00
+h2   30.00
+p1    2.50
+p2    9.58
+p3    6.25
+m1    7.58
+m2    9.09
+f    8.64
+Grade estimate is based on 8 scores
+   3.80% = 19.00% of 20% for homework
+   1.53% =  6.11% of 25% for program
+   2.83% =  8.33% of 34% for midterm
+   1.81% =  8.64% of 21% for final
+--------------------------------
+   9.98% weighted percent
+Letter Grade Estimate: unable to estimate letter grade for 9.975925925925926
